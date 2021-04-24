@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d5bdce7-36d4-4804-95aa-ae6a5b237f51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ytdverter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ytdverter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ytd.py" beforeDir="false" afterPath="$PROJECT_DIR$/ytd.py" afterDir="false" />
-    </list>
+    <list default="true" id="1d5bdce7-36d4-4804-95aa-ae6a5b237f51" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
